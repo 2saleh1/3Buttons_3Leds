@@ -22,8 +22,7 @@ Simple Arduino project controlling 3 LEDs with 3 push buttons.
 | LED 2     | Digital 9   |
 | LED 3     | Digital 11  |
 
-1. Buttons: Connect between pin and GND (with 10kΩ pull-down resistors)
-2. LEDs: Connect through 220Ω resistors to GND
+
 
 ## Code
 Upload `3Buttons_3Leds.ino` to your Arduino:
